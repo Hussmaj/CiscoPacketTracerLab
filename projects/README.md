@@ -3,6 +3,10 @@
 ## Table of Contents
 <!-- toc-start -->
 ### Hva er forskjellen mellom en Hub og en Switch.
+### Hva er forskjellen mellofdfdsf 
+### Hva er forskjellen mellom en
+ dfdf
+
 
 
 
@@ -33,3 +37,17 @@
 - Hver port får sin egen collision domain.
 - Mer effektiv kommunikasjon mellom enheter.
 - Støtte for funksjoner som VLAN.
+
+
+
+
+
+
+
+
+
+
+
+
+### Hva er forskjellen mellom en
+
