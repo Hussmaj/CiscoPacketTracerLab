@@ -3,12 +3,9 @@
 
 ## Om dette repoet
 
-Hovedmålet med denne labben er aT jeg skal lære og øve på nettverk ved hjelp av Cisco Packet Tracer.
-
-Her kommer jeg til å teste forskjellige nettverksoppsett, konfigurere Cisco-enheter og prøve meg frem med ulike funksjoner og teknologier.
+Hovedmålet med denne labben er å øve på nettverkoppsett ved hjelp av Cisco Packet Tracer. Teste forskjellige nettverksoppsett og konfigurere Cisco-enheter.
 
 Målet er å få bedre forståelse for hvordan nettverk fungerer i praksis, og lære hvordan man setter opp, konfigurerer og feilsøker nettverk.
-Og bli kjent med CISCO produkter og realisere oppsett. 
 
 ## Liste på prosjektene:
 
