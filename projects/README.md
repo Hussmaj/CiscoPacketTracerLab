@@ -1,5 +1,11 @@
 # Teori fra prosjektene
 
+## Table of Contents
+<!-- toc-start -->
+
+
+<!-- toc-end -->
+
 ### Hva er forskjellen mellom en Hub og en Switch.
 
 **Hub:**  
