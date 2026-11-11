@@ -13,6 +13,10 @@ Og bli kjent med CISCO produkter og realisere oppsett.
 ## Liste på prosjektene:
 
 1. [Peer to Peer](projects/peer-to-peer.pkt)
+2. [LAN-Hub](projects/LAN-Hub-Network.pkt)
+3. [LAN-Switch](projects/LAN-Switch-Network.pkt)
+
+
 
 ## Mål
 
