@@ -1,16 +1,7 @@
 # Teori fra prosjektene
 
 ## Table of Contents
-<!-- toc-start -->
-### Hva er forskjellen mellom en Hub og en Switch.
-### Hva er forskjellen mellofdfdsf 
-### Hva er forskjellen mellom en
- dfdf
 
-
-
-
-<!-- toc-end -->
 
 ### Hva er forskjellen mellom en Hub og en Switch.
 
