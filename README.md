@@ -12,7 +12,7 @@ Og bli kjent med CISCO produkter og realisere oppsett.
 
 ## Liste på prosjektene:
 
-1. 
+1. (projects/peer-to-peer.pkt)
 
 ## Mål
 
