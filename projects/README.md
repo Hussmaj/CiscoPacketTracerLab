@@ -2,6 +2,8 @@
 
 ## Table of Contents
 <!-- toc-start -->
+### Hva er forskjellen mellom en Hub og en Switch.
+
 
 
 <!-- toc-end -->
