@@ -1,4 +1,4 @@
-# Teori
+# Teori fra prosjektene
 
 ### Hva er forskjellen mellom en Hub og en Switch.
 
