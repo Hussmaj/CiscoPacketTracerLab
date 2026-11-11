@@ -1,9 +1,9 @@
 # CiscoPacketTracerLab
 
 
-## Om denne repoen
+## Om dette repoet
 
-Dette er et personlig prosjekt hvor jeg skal lære og øve på nettverk ved hjelp av Cisco Packet Tracer.
+Hovedmålet med denne labben er aT jeg skal lære og øve på nettverk ved hjelp av Cisco Packet Tracer.
 
 Her kommer jeg til å teste forskjellige nettverksoppsett, konfigurere Cisco-enheter og prøve meg frem med ulike funksjoner og teknologier.
 
