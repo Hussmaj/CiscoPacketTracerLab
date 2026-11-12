@@ -19,7 +19,6 @@ Målet er å få bedre forståelse for hvordan nettverk fungerer i praksis, og l
 
 Målet med prosjektet er å bli bedre kjent med Cisco-produkter, lære mer om nettverk og få praktisk erfaring med å realisere forskjellige nettverksoppsett gjennom simulering.
 
-Lenke til lærling: https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMoNJXQxrIIKRpSrVBuTlK
 
 
 
