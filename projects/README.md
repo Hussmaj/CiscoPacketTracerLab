@@ -13,13 +13,6 @@
 - Leser MAC-adresser og sender trafikken videre til riktig port basert på hvilken enhet som skal motta dataene.
 - En switch håndterer nettverkstrafikk mer effektivt enn en hub fordi den vet hvor dataene skal sendes.
 
-### Hva er en Repeater
-
-**Repeater:**  
-- En repeater er en enhet som brukes til å forsterke og videresende nettverkssignaler, slik at signalet kan nå lengre avstander.
-- En repeater fungerer som en mellomstasjon som forlenger rekkevidden til et nettverk.
-- Det er en Layer 1 device. Fordi den jobber med signaler og ikke addresser.
- 
 **Hvorfor brukte man hub-er?**
 - **Enkle nettverk:** Hub-er var enkle å sette opp og krevde ingen konfigurering.
 - **Lav pris:** De var billigere å produsere enn switch-er.
@@ -33,16 +26,10 @@
 - Mer effektiv kommunikasjon mellom enheter.
 - Støtte for funksjoner som VLAN.
 
+### Hva er en Repeater
 
-
-
-
-
-
-
-
-
-
-
-### Hva er forskjellen mellom en
-
+**Repeater:**  
+- En repeater er en enhet som brukes til å forsterke og videresende nettverkssignaler, slik at signalet kan nå lengre avstander.
+- En repeater fungerer som en mellomstasjon som forlenger rekkevidden til et nettverk.
+- Det er en Layer 1 device. Fordi den jobber med signaler og ikke addresser.
+ 
